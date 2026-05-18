@@ -81,7 +81,7 @@ The Settings screen provides app information and user preferences management.
 
 ## 🏗️ Project Structure
 ```text
-ib/
+lib/
 ├── models/
 │ └── meal_model.dart
 │
@@ -131,15 +131,17 @@ flutter run
 
 ```
 
-##🔮 Future Improvements
-Offline storage (Hive / SQLite)
-Dark mode support
-Nutrition tracking
-User authentication
-Cloud sync for meal plans
+## 🔮 Future Improvements
+- Offline storage (Hive / SQLite)
+- Dark mode support
+- Nutrition tracking
+- User authentication
+- Cloud sync for meal plans
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Nanat Abeshu
+
+---
