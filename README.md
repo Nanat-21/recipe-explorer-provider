@@ -80,6 +80,7 @@ The Settings screen provides app information and user preferences management.
 ---
 
 ## 🏗️ Project Structure
+```text
 ib/
 ├── models/
 │ └── meal_model.dart
