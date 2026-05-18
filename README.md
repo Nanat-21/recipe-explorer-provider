@@ -129,12 +129,17 @@ flutter pub get
 # 4. Run app
 flutter run
 
-🔮 Future Improvements
+```
+
+##🔮 Future Improvements
 Offline storage (Hive / SQLite)
 Dark mode support
 Nutrition tracking
 User authentication
 Cloud sync for meal plans
-👨‍💻 Author
+
+---
+
+##👨‍💻 Author
 
 Developed by Nanat Abeshu
