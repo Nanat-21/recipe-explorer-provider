@@ -143,5 +143,3 @@ flutter run
 ## 👨‍💻 Author
 
 Developed by Nanat Abeshu
-
----
